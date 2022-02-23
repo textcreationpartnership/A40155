@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Declaration from the harmless &amp; innocent people of God called Quakers against all sedition, plotters &amp; fighters in the world, for the removing of the ground of jealousie and suspition from both magistrates and people in the kingdome concerning wars and fightings.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40155</idno>
+            <idno type="STC">Wing F1788</idno>
+            <idno type="STC">ESTC R36480</idno>
+            <idno type="EEBO-CITATION">15699771</idno>
+            <idno type="OCLC">ocm 15699771</idno>
+            <idno type="VID">104457</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40155)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104457)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1592:54)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Declaration from the harmless &amp; innocent people of God called Quakers against all sedition, plotters &amp; fighters in the world, for the removing of the ground of jealousie and suspition from both magistrates and people in the kingdome concerning wars and fightings.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1684?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Fox by Wing, but other eds. show signatures of eleven others besides Fox.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>From page [1] at end: "Added in the reprinting. Courteous reader, This was our testimony above twenty years ago, and since then we have not been found acting contrary to it, nor ever shall ... ."</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:104457:1"/>
+            <head>A DECLARATION FROM THE HARMLESS &amp; INNOCENT People of God, called, QUAKERS Againſt ALL SEDITION Plotters &amp; Fighters In the WORLD.</head>
+            <head type="sub">For the removing of the Ground of Jealouſie and Suſpition from both Magiſtrates and People in the Kingdome, concerning Wars and Fightings.</head>
+            <head type="sub">
+               <hi>Preſented</hi> unto the <hi>King</hi> upon the 21<hi>th</hi> day of the 11<hi>th</hi> moneth, 1660.</head>
+            <p>OUR Principle is, and our Practices have always been to ſeek peace, and enſue it, and to follow after Righteouſneſs, and the Knowledge of God, ſeeking the Good and Well<g ref="char:EOLhyphen"/>fare, and doing that which tends to the peace of All. We know that Wars and Fightings proceed from the Luſts of Men, as <hi>Jam.</hi> 4.1, 2, 3. out of which Luſts the Lord hath redeemed us; and ſo out of the Occaſion of War; the occaſion of which War, and the
+<pb n="2" facs="tcp:104457:2"/>War it ſelf (wherein envious Men, who are lovers of themſelves more then lovers of God, Luſt, Kill, and deſire to have Mens Lives or Eſtates) ariſeth from the Luſt. All Bloody Principles and Practices we (as to our own particular) do utterly deny, with all outward Wars and Strife, and Fightings with Outward Weapons, for any end, or under any pretence whatſoever; and this is our Teſtimony to the whole World.</p>
+            <p>And whereas it is Objected;<lb/>
+But although you now ſay, <hi>That you cannot Fight, nor take up Arms at all; yet if the Spirit do move you, then you will change your Principle, and then you will ſell your Coat, and buy a Sword, &amp; Fight for the Kingdom of Chriſt.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> As for this, we ſay to you, that Chriſt ſaid to <hi>Peter, Put <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p thy Sword in his place;</hi> though he had ſaid before, he that had no Sword might ſell his Coat and buy one (to the fulfilling of the Law and Scripture) yet after when he had bid him put it up, he ſaid, <hi>He that taketh the Sword, ſhall periſh with the Sword;</hi> and further, Chriſt ſaid to <hi>Pilate, Thinkeſt thou that I cannot now Pray to my Father, and he ſhall preſently give me more then twelve Legions of Angels?</hi> and this might ſa<g ref="char:EOLhyphen"/>tisfie <hi>Peter, Luk.</hi> 22.36. after he had put up his Sword, when he ſaid to him, <hi>He that took it, ſhould periſh by it,</hi> which ſatisfieth us, <hi>Mat.</hi> 26.51, 52, 53. and in the <hi>Revelations</hi> it's ſaid, <hi>He that kills with the Sword, ſhall periſh with the Sword, and here is the Faith and the Patience of the Saints;</hi> and ſo Chriſt's Kingdom is not of this World, therefore do not his Servants Fight, as he told <hi>Pilate the Magiſtrate,</hi> who crucified him: and did they not look upon Chriſt as a raiſer of Sedition? and did not he ſay, <hi>Forgive them?</hi> But thus it is, that we are numbred amongſt Tranſ<g ref="char:EOLhyphen"/>greſſors, and numbred amongſt Fighters, that the Scriptures might be fulfilled.</p>
+            <p>That Spirit of Chriſt by whi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h we are guided, is not changeable, ſo as once to command us from a thing as Evil, and again to move unto it; and we do certainly know, and ſo teſtifie to the World, that the Spirit of Chriſt, which leads us into all Truth, will never move us to Fight and War againſt any Man with outward Weapons, neither for the Kingdom of Chriſt, nor for the Kingdoms of this World.</p>
+            <p>
+               <hi>Firſt,</hi> Becauſe the Kingdom of Chriſt, God will exalt according to his promiſe, and cauſe it to grow and flouriſh in Righteouſneſs; <hi>Not by Might, nor by Power (of outward Sword) but by my Spirit ſaith the Lord,
+<pb n="3" facs="tcp:104457:3"/>Zech.</hi> 4.6. So thoſe that uſe any Weapon to Fight for Chriſt, or for the eſtabliſhing of his Kingdom or Government, both the <hi>Spirit, Principle</hi> and <hi>Practice</hi> in that, we deny.</p>
+            <p>
+               <hi>Secondly,</hi> We do earneſtly deſire and wait, That (by the Word of God's Power, and its effectual Operation in the Hearts of Men) the Kingdoms of this World may become the Kingdoms of the Lord, and of his Chriſt, that he might Rule and Reign in Men, by his Spirit and Truth; that thereby all People out of all different Judgments and Profeſſions, might be brought into Love and Unity with God, and one with another; and that they might all come to witneſs the Prophets words, who ſaid, <hi>Nation ſhall not lift up<hi>Sword</hi> againſt Nation, neither ſhall they learn <hi>War</hi> any more,</hi> Iſa. 2.4. Mich. 4.3.</p>
+            <p>So we, whom the Lord hath called into the obedience of his Truth, <hi>have denyed Wars and Fightings,</hi> and cannot again any more learn it. And this is a certain Teſtimony unto all the World, of the Truth of our Hearts in this particular, that as God perſwadeth every Mans Heart to believe, ſo they may receive it; for we have not (as ſome others) gone about cunningly with deviſed Fables: Nor have we ever deny<g ref="char:EOLhyphen"/>ed in Practice, what we have profeſſed in Principle, but in Sincerity and Truth, and by the Word of God have we laboured to be made manifeſt unto all Men, that both we and our ways might be witneſſed in the Hearts of all People: And whereas all manner of Evil hath been falſly ſpoken of us, we hereby ſpeak forth the pl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in Truth of our hearts, to take away the occaſion of that offence, that ſo we being Innocent, may not ſuffer for other Mens Offences, nor be made a Prey upon by the wills of men, for that of which we were never Guilty; but in the uprightneſs of our hearts we may, under the Power ordained of God, for the puniſhment of Evil doers, and for the praiſe of them that do well, live a peaceable and godly Life, in all Godlineſs and Honeſty; for although we have always ſuffered, and do now more abundantly ſuffer; yet we know that it's for Righteouſneſs ſake; <hi>For our rejoycing is this, the Teſtimony of our Conſciences, that in Simplicity and godly Sincerity, not with fleſhly Wiſdom, but by the Grace of God, we have had our Converſation in the World,</hi> 2 <hi>Cor.</hi> 1.12. Which for us is a Witneſs, for the convincing of our Enemies. For this we can ſay to all the
+<pb n="4" facs="tcp:104457:4"/>World, we have wronged no Mans <hi>Perſons</hi> or <hi>Poſſeſsions;</hi> we have uſed no <hi>Force</hi> nor <hi>Violence</hi> againſt any Man; we have been ſound in no <hi>Plots,</hi> nor guilty of <hi>Sedition;</hi> when we have been wronged, we have not ſought to revenge our ſelves; we have not made reſiſtance againſt Authority; but wherein we could not obey for Conſcience ſake, we have ſuffered even the moſt of any People in the Nation; we have been counted as Sheep for the Slaughter, Perſe<g ref="char:EOLhyphen"/>cuted and Deſpiſed, Beaten, Stoned, Wounded, Stocked, Whip<g ref="char:EOLhyphen"/>ped, Impriſoned, Haled out of Synagogues, caſt into Dungeons and Noiſome Vaults, where many have died in Bonds, ſhut up from our Friends, denied needful Suſtenance for many days together, with o<g ref="char:EOLhyphen"/>ther the like Cruelties<g ref="char:punc">▪</g> and the cauſe of all this our Sufferings, is not for any Evil, but for things relating to the Worſhip of our God, and in obedience to his requirings of us<g ref="char:punc">▪</g> 
+               <hi>For which Cauſe we ſhall freely give up our Bodies a Sacrifice, rather then diſobey the Lord:</hi> For we know, as the Lord hath kept us Innocent, ſo he will plead our Cauſe, when there is none in the Earth to plead it; So we, in obedience unto his Truth, do not love our Lives unto the Death, that we may do his will; and wrong no Man in our Generation, but ſeek the Good and Peace of all Men: And he that hath commanded us, <hi>That we ſhall not Swear at all,</hi> Mat. 5.34. hath alſo commanded us, <hi>That we ſhall not kill,</hi> Mat, 5. So that we can neither kill Men, nor ſwear for nor againſt them. And this is both our Principl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Practice, and hath been from the Begin<g ref="char:EOLhyphen"/>ning; ſo that if we ſuffer, as ſuſpected to take up Arms, or make War againſt any, it is without any ground from us; for it neither is, nor ever was in our Hearts ſince we owned the Truth of God, neither ſhall we ever do it, becauſe it is contrary to the Spirit of Chriſt, his Doctrine, and the Practices of his Apoſtles, even contrary to him for whom we ſuffer all things, and endure all things.</p>
+            <p>And whereas Men come againſt us with <hi>Clubs, Staves, Drawn Swords, Piſtols cock't,</hi> and do <hi>beat, cut</hi> and <hi>abuſe us;</hi> yet we never reſiſted them, but to them our Hair, Backs, and Cheeks have been ready; but it is not an honour to Manhood nor Nobility, to run upon harmleſs Peo<g ref="char:EOLhyphen"/>ple, who lift not up a Hand againſt them, with Arms and Weapons.</p>
+            <p>Therefore conſider theſe things ye Men of Underſtanding: For Plotters, Raiſers of Inſurrections, Tumultuous Ones, and Fighters, running with Swords, Clubs, Staves and Piſtols one againſt another;
+<pb n="5" facs="tcp:104457:5"/>we ſay, theſe are of the World, and have their foundation from this Un<g ref="char:EOLhyphen"/>righteous World; from the foundation of which, the Lamb hath been ſlain, which Lamb hath redeemed us from this unrighteous World, and we are not of it, out are Heirs of a World in which there is no End, and of a Kingdom where no corruptible thing enters: And our Weapons are <hi>Spiritual,</hi> and not <hi>Carnal,</hi> yet <hi>Mighty through God, to the pulling down of the Strong Holds of Sin and Satan,</hi> who is Author of <hi>Wars, Fighting, Murder,</hi> and <hi>Plots;</hi> and our <hi>Swords</hi> are broken into <hi>Plow-ſhares,</hi> and <hi>Spears</hi> into <hi>Pruning hooks,</hi> as Propheſied of in <hi>Micah</hi> 4. Therefore we cannot learn War any more, neither riſe up againſt Nation or Kingdom with outward Weapons, though you have numbred us a<g ref="char:EOLhyphen"/>mongſt the Tranſgreſſors and Plotters; the Lord knows our Innocency herein, and will plead our Cauſe with all Men and People upon Earth, at the day of their <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udgment, when all Men ſhall have a reward ac<g ref="char:EOLhyphen"/>cording to their Works.</p>
+            <p>Therefore in love we warn you for your Souls good, <hi>not to wrong the Innocent,</hi> nor the Babes of Chriſt, which he hath in his Hand, which he tenders as the Apple of his Eye; neither ſeek to deſtroy the Heri<g ref="char:EOLhyphen"/>tage of God, neither turn your Swords <hi>backward,</hi> upon ſuch as the Law was not made for, <hi>i. e. the Righteous,</hi> but for the Sinners and Tranſ<g ref="char:EOLhyphen"/>greſſors, to keep them down. For thoſe are not the Peace-makers, neither the Lovers of Enemies; neither can they overcome Evil with Good, who wrong them that be Friends to You and All Men, and wiſh Your Good, and the good of all People on the Earth. If you Oppreſs us, as they did the Children of <hi>Iſrael</hi> in <hi>Egypt;</hi> and if you Op<g ref="char:EOLhyphen"/>preſs us as they did when <hi>Chriſt</hi> was Born, and as they did the Chriſti<g ref="char:EOLhyphen"/>ans in the Primitive Times, we can ſay, <hi>The Lord forgive You;</hi> and leave the Lord to deal with you, and not revenge our ſelves: And if you ſay, as the Council ſaid to <hi>Peter</hi> and <hi>John, You muſt ſpeak no more in that Name;</hi> and if you ſerve us as they ſerved the Three Children ſpoken of in <hi>Daniel;</hi> God is the ſame as ever he was, that lives for E<g ref="char:EOLhyphen"/>ver and Ever, who hath the Innocent in his Arms.</p>
+            <p>Oh Friends! offend not the Lord and his <hi>Little Ones;</hi> neither afflict his People; but conſider, and be moderate, and do not run haſtily into things; but mind, and conſider <hi>Mercy, Juſtice</hi> and <hi>Judgment;</hi> that is the way for you to proſper, and get the Favour of the Lord. Our Meetings were ſtopped and broken up in the dayes of <hi>Oliver,</hi> in pretence
+<pb n="6" facs="tcp:104457:6"/>of Plotting againſt him; and in the days of the Committee of Safety, we were looked upon as Plotters to bring in KING CHARLES; and now our Peaceable Meetings are termed Seditious. Oh that men ſhould loſe their Reaſon, and go contrary to their own conſcience, knowing that we have ſuffered all things, and have been accounted Plotters all along, though we have declared againſt them both by word of mouth and Printing, and are clear from any ſuch thing, though we have ſuffered all along becauſe we would not take up carnal weapons to fight withal againſt any; and are thus made a prey upon, becauſe we are the innocent Lambs of Chriſt, and cannot avenge our ſelves. Theſe things are left upon your hearts to conſider: But we are out of all thoſe things, in the patience of the Saints; and we know, that as Chriſt ſaid, <hi>He that takes the Sword, ſhall periſh with the Sword, Mat.</hi> 26.52. <hi>Rev.</hi> 13.10.</p>
+            <p>
+               <hi>This is given forth from the People called</hi> Quakers, <hi>to ſatisfie the King and his Council, and all thoſe that have any jealouſie cencerning Us, that all occaſion of ſuſpition may be taken away, and our Innocency cleared.</hi>
+            </p>
+            <closer>
+               <dateline>Given forth on the behalf of the whole Body of the Elect People of God, who are called <hi>Quakers,</hi> 
+                  <date>in the Year 1660.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="7" facs="tcp:104457:7"/>
+            <head>POSTSCRIPT.</head>
+            <p>THough we are numbred amongſt Tranſgreſſors, and ſo have been given up to all Rude Mercileſs Men, by which our Meetings are bro<g ref="char:EOLhyphen"/>ken up, in which we Edified one another in our holy Faith, and pra<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed toge<g ref="char:EOLhyphen"/>ther to the Lord that lives forever, yet he is our pleader for us in this Day; the Lord ſaith, <hi>They that feared his Name, ſpoke often together,</hi> as in <hi>Malachy,</hi> which were as his Jewels: And for this Cauſe, and no Evil-doing, are we caſt into Holes, Dungeons, Houſes of Correction, Priſons; they ſparing neither Old nor Young, Men nor Women; and made a Prey on in the Sight of all Nations, under pretence of being Seditious, &amp;c. ſo that all rude People run upon us to take Poſſeſſion; for which we ſay, <hi>The Lord forgive them that have thus done to us,</hi> who doth, and will enable us to ſuffer; and never ſhall we lift up a Hand againſt any Man that doth thus uſe us: But that the Lord may have Mercy upon them, that they may conſider what they have done: For how is it poſſible for them to requite us, for the wrong they have done to us? Who to all Nations have ſounded us abroad as Seditious, or Plotters, who were never found Plotters againſt any Power or Man upon the Earth, ſince we knew the Life and Power of Jeſus Chriſt manifeſted in us, who hath redeemed us from the World, and all works of Darkneſs and Plotters that be in it, by which we know our Election before the World began. So we ſay, The Lord have Mercy upon our Enemies, and forgive them, for that they have done unto us.</p>
+            <p>Oh! do as you would be done by; and do unto all Men as you would have them do unto you; for this is but the Law and the Prophets.</p>
+            <p>And all Plots, Inſurrections and Riotous Meetings we do deny, knowing them to be of the Devil, the Murtherer, which we in Chriſt (who was before they were) triumph over them, and all Wars &amp; Fightings with Carnal Weapons we do deny, who have the Sword of the Spirit, and all that wrong us, we leave them to the Lord; and this is to clear our Innocency from that Aſperſion caſt upon us, <hi>That we are Seditious or Plotters.</hi>
+            </p>
+         </div>
+         <div type="addendum_to_the_reader">
+            <pb facs="tcp:104457:8" rendition="simple:additions"/>
+            <head>Added in the Reprinting.</head>
+            <opener>
+               <salute>Courteous Reader.</salute>
+            </opener>
+            <p>THis was our Teſtimony above Twenty Years ago, and ſince then we have not been found Acting contrary to it, nor ever ſhall; for the Truth that is our Guide is unchangeable; and this is now Reprinted to the Men of this Age, many of whom were then Children, and doth ſtand as our certain Teſtimony againſt all Plotting and Fight<g ref="char:EOLhyphen"/>ing with Carnal Weapons; and if any by departing from the Truth ſhould do ſo, this is our Teſtimony in the Truth againſt them, and will ſtand over them, and the Truth will be clear of them.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
